@@ -1,0 +1,54 @@
+﻿@model IEnumerable<GestionDeNotas.Models.Alumnos>
+
+@{
+    ViewBag.Title = "EstudiantesByCurso";
+    Layout = "~/Views/Shared/_ProfesorLayout.cshtml";
+}
+
+<h2>Estudiantes de este curso</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Carnet)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombres)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellidos)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genero)
+        </th>
+        <th>Acciones</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Carnet)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombres)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Apellidos)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Genero)
+        </td>
+        <td>
+            <a href="@Url.Action("AñadirNotas","Docente",new {carnet = item.Carnet})" class="btn btn-primary">Agregar nota</a>
+            <a href="#" class="btn btn-secondary">Modificar nota</a>
+            <a href="#" class="btn btn-success">Ver nota</a>
+
+        </td>
+       
+    </tr>
+}
+
+</table>
+
+<a href="@Url.Action("MisCursos","Docente")" class="btn btn-secondary">Volver</a>

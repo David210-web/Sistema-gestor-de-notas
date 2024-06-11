@@ -1,0 +1,57 @@
+﻿@model IEnumerable<GestionDeNotas.Models.Curso>
+
+@{
+    ViewBag.Title = "MisCursos";
+    Layout = "~/Views/Shared/_AlumnoLayout.cshtml";
+}
+
+<h2>MisCursos</h2>
+
+<p>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoCurso)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoMateria)
+        </th>
+        <th>
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Seccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hora)
+        </th>
+        <th>
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoCurso)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoMateria)
+        </td>
+        <td>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Seccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hora)
+        </td>
+        <td>
+        </td>
+        
+    </tr>
+}
+
+</table>
+
+<a href="@Url.Action("Index","Estudiante")" class="btn btn-secondary">Volver</a>

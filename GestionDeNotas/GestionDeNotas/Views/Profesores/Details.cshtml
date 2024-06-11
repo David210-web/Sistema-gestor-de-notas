@@ -1,0 +1,47 @@
+﻿@model GestionDeNotas.Models.Profesor
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalles</h2>
+
+<div>
+    <h4>Profesor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombres)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombres)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apellidos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apellidos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoDocente)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoDocente)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    <a href="@Url.Action("Edit", new { carnet = Model.Carnet })" class="btn btn-primary">
+        <i class="fa fa-edit"></i> Editar
+    </a> |
+    <a href="@Url.Action("Index")" class="btn btn-danger">
+        <i class="fa fa-edit"></i> Volver
+    </a>
+</p>

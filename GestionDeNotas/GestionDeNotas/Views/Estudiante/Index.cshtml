@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AlumnoLayout.cshtml";
+}
+
+<div class="d-flex justify-content-between">
+    <h2>@ViewBag.Message</h2>
+    <a href="@Url.Action("Inscribir","Estudiante")" class="btn btn-primary">Inscribir Curso</a>
+</div>
+

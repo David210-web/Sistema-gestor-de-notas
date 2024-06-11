@@ -1,0 +1,62 @@
+﻿@model IEnumerable<GestionDeNotas.Models.Alumnos>
+
+@{
+    ViewBag.Title = "Listado de Alumnos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-2">@ViewBag.Title</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success">
+        <i class="fa fa-add"></i> Agregar alumno
+    </a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombres)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellidos)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genero)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombres)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellidos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genero)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", new { carnet = item.Carnet })" class="btn btn-primary">
+                    <i class="fa fa-edit"></i>
+                </a> |
+                <a href="@Url.Action("Details", new { carnet = item.Carnet })" class="btn btn-info">
+                    <i class="fa fa-info-circle"></i>
+                </a> |
+                <a href="@Url.Action("Delete", new { carnet = item.Carnet })" class="btn btn-danger">
+                    <i class="fa fa-trash"></i>
+                </a>|
+                <a href="@Url.Action("AddUser", new { carnet = item.Carnet })" class="btn btn-success">
+                    <i class="fa-solid fa-user-plus"></i>
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<a href="@Url.Action("Index","Admin")" class="btn btn-light">
+    <i class="fa fa-home"></i> Volver
+</a>

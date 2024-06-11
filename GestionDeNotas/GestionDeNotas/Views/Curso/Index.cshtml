@@ -1,0 +1,79 @@
+﻿@model IEnumerable<GestionDeNotas.Models.Curso>
+
+@{
+    ViewBag.Title = "Listado de cursos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-2">@ViewBag.Title</h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success">
+        <i class="fa fa-add"></i> Agregar alumno
+    </a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoCurso)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CarnetDocente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoMateria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Seccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hora)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CantidadPersonas)
+        </th>
+        <th>
+            Acciones
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoCurso)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CarnetDocente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoMateria)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.Seccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hora)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CantidadPersonas)
+        </td>
+        <td>
+            <a href="@Url.Action("Edit", new { codigo = item.CodigoCurso })" class="btn btn-primary">
+                <i class="fa fa-edit"></i>
+            </a> |
+            <a href="@Url.Action("Details", new { codigo = item.CodigoCurso })" class="btn btn-info">
+                <i class="fa fa-info-circle"></i>
+            </a> |
+            <a href="@Url.Action("Delete", new { codigo = item.CodigoCurso })" class="btn btn-danger">
+                <i class="fa fa-trash"></i>
+            </a>
+        </td>
+    </tr>
+}
+
+</table>
+
+<a href="@Url.Action("Index","Admin")" class="btn btn-light">
+    <i class="fa fa-home"></i> Volver
+</a>

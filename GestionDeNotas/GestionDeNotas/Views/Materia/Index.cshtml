@@ -1,0 +1,53 @@
+﻿@model IEnumerable<GestionDeNotas.Models.Materia>
+
+@{
+    ViewBag.Title = "Listado de materias";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center"> @ViewBag.Title </h2>
+
+<p>
+    <a href="@Url.Action("Create")" class="btn btn-success">
+        <i class="fa fa-add"></i> Agregar materia
+    </a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoMateria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodigoMateria)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                <a href="@Url.Action("Edit", new { codigo = item.CodigoMateria })" class="btn btn-primary">
+                    <i class="fa fa-edit"></i>
+                </a> |
+                <a href="@Url.Action("Details", new { codigo = item.CodigoMateria })" class="btn btn-info">
+                    <i class="fa fa-info-circle"></i>
+                </a> |
+                <a href="@Url.Action("Delete", new { codigo = item.CodigoMateria })" class="btn btn-danger">
+                    <i class="fa fa-trash"></i>
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<a href="@Url.Action("Index","Admin")" class="btn btn-light">
+    <i class="fa fa-home"></i> Volver
+</a>

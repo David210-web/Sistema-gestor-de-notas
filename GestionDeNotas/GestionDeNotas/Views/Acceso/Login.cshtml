@@ -1,0 +1,40 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="w-100 vh-100 d-flex justify-content-center align-items-center">
+        <form class="py-4 px-5 shadow p-3 mb-5 bg-white rounded" method="post" action="@Url.Action("Login","Acceso")">
+            <img class="d-block mx-auto text-center mb-2" src="~/public/Imagenes/undraw_secure_login_pdn4.svg" width="150" height="150" />
+            <h2 class="text-center mb-2">Iniciar sesion</h2>
+            <div class="mb-3">
+                <label class="form-label" for="Carnet">Carnet:</label>
+                <input type="text" class="form-control" placeholder="Ej: 45-8725-6303" name="Carnet" required />
+            </div>
+            <div class="mb-3">
+                <label class="form-label" for="Password">Contraseña:</label>
+                <input type="password" class="form-control" name="Password" required />
+            </div>
+            @if (ViewData["message"] != null)
+            {
+                <div class="alert alert-danger mt-2 text-center" role="alert">
+                    @ViewData["message"]
+                </div>
+            }
+            <div class="d-block mx-auto">
+                <button type="submit" class="btn btn-primary btn-lg">Ingresar</button>
+            </div>
+        </form>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿@model IEnumerable<GestionDeNotas.Models.Curso>
+
+@{
+    ViewBag.Title = "MisCursos";
+    Layout = "~/Views/Shared/_ProfesorLayout.cshtml";
+}
+
+<h2 class="text-center">Mis cursos</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CarnetDocente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoMateria)
+        </th>
+        
+        <th>
+            @Html.DisplayNameFor(model => model.Seccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hora)
+        </th>
+        <th>Acciones</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CarnetDocente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoMateria)
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.Seccion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hora)
+        </td>
+        <td>
+            @*@Html.ActionLink("Edit", "Edit", new { id=item.CodigoCurso }) |*@
+            @*@Html.ActionLink("Ver Alumnos", "Details", new { id=item.CodigoCurso })*@
+            <a href="@Url.Action("EstudiantesByCurso","Docente",new {codigoCurso = item.CodigoCurso})" class="btn btn-primary"> <i class="fa-solid fa-chalkboard-user"></i> Ver alumnos</a>
+            @*@Html.ActionLink("Delete", "Delete", new { id=item.CodigoCurso })*@
+        </td>
+    </tr>
+}
+
+</table>
