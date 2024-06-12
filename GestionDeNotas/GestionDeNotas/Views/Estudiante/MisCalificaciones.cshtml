@@ -1,0 +1,60 @@
+﻿@model IEnumerable<GestionDeNotas.Models.Notas>
+
+@{
+    ViewBag.Title = "MisCalificaciones";
+    Layout = "~/Views/Shared/_AlumnoLayout.cshtml";
+}
+
+<h2>Mis Calificaciones</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CarnetAlumno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CodigoMateria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nota1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nota2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nota3)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NotaPromedio)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CarnetAlumno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodigoMateria)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nota1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nota2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nota3)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NotaPromedio)
+        </td>
+        
+    </tr>
+}
+
+</table>
+
+<a href="@Url.Action("Index","Estudiante")" class="btn btn-secondary">Volver</a>

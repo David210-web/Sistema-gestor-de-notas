@@ -25,7 +25,9 @@
     <div class="form-group">
         @Html.LabelFor(model => model.CarnetDocente, htmlAttributes: new { @class = "control-label col-md-2" })
         <div class="col-md-10">
-            @Html.EditorFor(model => model.CarnetDocente, new { htmlAttributes = new { @class = "form-control" } })
+            @*@Html.EditorFor(model => model.CarnetDocente, new { htmlAttributes = new { @class = "form-control" } })*@
+            @Html.DropDownListFor(model => model.CarnetDocente, (SelectList)ViewBag.DocentesList, "Seleccione el docente", new { @class = "form-control" })
+
             @Html.ValidationMessageFor(model => model.CarnetDocente, "", new { @class = "text-danger" })
         </div>
     </div>
@@ -33,7 +35,7 @@
     <div class="form-group">
         @Html.LabelFor(model => model.CodigoMateria, htmlAttributes: new { @class = "control-label col-md-2" })
         <div class="col-md-10">
-            @Html.EditorFor(model => model.CodigoMateria, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.DropDownListFor(model => model.CodigoMateria, (SelectList)ViewBag.CursoList, "Seleccione una materia", new { @class = "form-control" })
             @Html.ValidationMessageFor(model => model.CodigoMateria, "", new { @class = "text-danger" })
         </div>
     </div>

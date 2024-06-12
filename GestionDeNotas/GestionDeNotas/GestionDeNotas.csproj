@@ -221,6 +221,7 @@
     <Content Include="Views\Docente\EstudiantesByCurso.cshtml" />
     <Content Include="Views\Estudiante\MisCursos.cshtml" />
     <Content Include="Views\Docente\AñadirNotas.cshtml" />
+    <Content Include="Views\Estudiante\MisCalificaciones.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

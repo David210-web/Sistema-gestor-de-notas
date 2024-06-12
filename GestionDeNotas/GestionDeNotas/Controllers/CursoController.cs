@@ -25,6 +25,10 @@ namespace GestionDeNotas.Controllers
         // GET: Curso/Create
         public ActionResult Create()
         {
+            var docentes = DocenteMantenimiento.GetProfesores();
+            var materias = MateriaMantenimiento.GetMaterias();
+            ViewBag.DocentesList = new SelectList(docentes, "Carnet", "Carnet");
+            ViewBag.CursoList = new SelectList(materias, "CodigoMateria", "CodigoMateria");
             return View();
         }
 

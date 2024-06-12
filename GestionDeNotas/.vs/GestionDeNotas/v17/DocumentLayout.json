@@ -3,28 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|c:\\users\\cdavi\\onedrive\\desktop\\gestor de notas\\gestiondenotas\\gestiondenotas\\views\\docente\\a\u00F1adirnotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\docente\\a\u00F1adirnotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|c:\\users\\cdavi\\onedrive\\desktop\\gestor de notas\\gestiondenotas\\gestiondenotas\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\profesorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\materiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\docentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\database\\materiamantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\database\\materiamantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|c:\\users\\cdavi\\onedrive\\desktop\\gestor de notas\\gestiondenotas\\gestiondenotas\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\database\\cursomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\database\\cursomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\docente\\a\u00F1adirnotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\docente\\a\u00F1adirnotas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\estudiante\\miscalificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\estudiante\\miscalificaciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\database\\notasmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\database\\notasmantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\shared\\_alumnolayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\shared\\_alumnolayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\database\\matriculainscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\database\\matriculainscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\acceso\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\acceso\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\docente\\estudiantesbycurso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,10 +91,6 @@
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\docente\\miscursos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\database\\matriculainscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\database\\matriculainscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\database\\alumnomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\database\\alumnomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,44 +99,20 @@
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\shared\\_profesorlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\estudiante\\miscursos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\estudiante\\miscursos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\database\\cursomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\database\\cursomantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\acceso\\noautorizado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\acceso\\noautorizado.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\models\\acceso\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\models\\acceso\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\shared\\_alumnolayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\shared\\_alumnolayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\estudiante\\inscribir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\estudiante\\inscribir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\gestiondenotas\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BE34A3FA-34AB-4F62-8EB9-1533A990BC54}|GestionDeNotas\\GestionDeNotas.csproj|solutionrelative:gestiondenotas\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,24 +122,240 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "A\u00F1adirNotas.cshtml",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
-              "RelativeToolTip": "GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAD0AAAAxAAAA",
+              "DocumentIndex": 2,
+              "Title": "ProfesoresController.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\ProfesoresController.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\ProfesoresController.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\ProfesoresController.cs",
+              "RelativeToolTip": "GestionDeNotas\\Controllers\\ProfesoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:39:08.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Curso\\Create.cshtml",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Curso\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Curso\\Create.cshtml",
+              "RelativeToolTip": "GestionDeNotas\\Views\\Curso\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T01:56:56.212Z",
+              "WhenOpened": "2024-06-11T23:49:58.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "GestionDeNotas\\Controllers\\AccesoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:55:28.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MateriaController.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\MateriaController.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\MateriaController.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\MateriaController.cs",
+              "RelativeToolTip": "GestionDeNotas\\Controllers\\MateriaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:39:12.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "GestionDeNotas\\Controllers\\CursoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:05:03.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CursoMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
+              "RelativeToolTip": "GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswNQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:04:52.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocenteController.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\DocenteController.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\DocenteController.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\DocenteController.cs",
+              "RelativeToolTip": "GestionDeNotas\\Controllers\\DocenteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T01:54:30.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "GestionDeNotas\\Controllers\\EstudianteController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwD4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T02:06:28.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "GestionDeNotas\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:02:20.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_AlumnoLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
+              "RelativeToolTip": "GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAC4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T02:12:36.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MatriculaInscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
+              "RelativeToolTip": "GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:25:47.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotasMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
+              "RelativeToolTip": "GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAYwDgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:25:14.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Profesor.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Profesor.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Profesor.cs",
+              "RelativeToolTip": "GestionDeNotas\\Models\\Profesor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T00:26:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MateriaMantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\MateriaMantenimiento.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\MateriaMantenimiento.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\MateriaMantenimiento.cs",
+              "RelativeToolTip": "GestionDeNotas\\Models\\Database\\MateriaMantenimiento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:08:34.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "A\u00F1adirNotas.cshtml",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
+              "RelativeToolTip": "GestionDeNotas\\Views\\Docente\\A\u00F1adirNotas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T01:56:56.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Acceso\\Permiso.cs",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Acceso\\Permiso.cs",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Acceso\\Permiso.cs",
+              "RelativeToolTip": "GestionDeNotas\\Models\\Acceso\\Permiso.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T23:53:03.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Curso\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Curso\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Curso\\Index.cshtml",
+              "RelativeToolTip": "GestionDeNotas\\Views\\Curso\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:56:06.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MisCalificaciones.cshtml",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Estudiante\\MisCalificaciones.cshtml",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Estudiante\\MisCalificaciones.cshtml",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Estudiante\\MisCalificaciones.cshtml",
+              "RelativeToolTip": "GestionDeNotas\\Views\\Estudiante\\MisCalificaciones.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T23:39:25.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EstudiantesByCurso.cshtml",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
+              "RelativeToolTip": "GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-02T01:59:13.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Notas.cs",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Notas.cs",
               "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Notas.cs",
@@ -119,49 +363,23 @@
               "RelativeToolTip": "GestionDeNotas\\Models\\Notas.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T17:41:48.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-10T17:41:48.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CursoController.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\CursoController.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\CursoController.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\CursoController.cs",
-              "RelativeToolTip": "GestionDeNotas\\Controllers\\CursoController.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T15:05:03.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_AlumnoLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
-              "RelativeToolTip": "GestionDeNotas\\Views\\Shared\\_AlumnoLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAB5AAAA",
+              "DocumentIndex": 21,
+              "Title": "MisCursos.cshtml",
+              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
+              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
+              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
+              "RelativeToolTip": "GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAABjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-02T02:12:36.11Z"
+              "WhenOpened": "2024-06-02T01:55:13.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EstudianteController.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\EstudianteController.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\EstudianteController.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\EstudianteController.cs",
-              "RelativeToolTip": "GestionDeNotas\\Controllers\\EstudianteController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCsAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T02:06:28.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "_ProfesorLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Shared\\_ProfesorLayout.cshtml",
               "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Shared\\_ProfesorLayout.cshtml",
@@ -173,46 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MisCursos.cshtml",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
-              "RelativeToolTip": "GestionDeNotas\\Views\\Docente\\MisCursos.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAC4AAABjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-02T01:55:13.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EstudiantesByCurso.cshtml",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
-              "RelativeToolTip": "GestionDeNotas\\Views\\Docente\\EstudiantesByCurso.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-02T01:59:13.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DocenteController.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\DocenteController.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\DocenteController.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\DocenteController.cs",
-              "RelativeToolTip": "GestionDeNotas\\Controllers\\DocenteController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAkwDMAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T01:54:30.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "AlumnosController.cs",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\AlumnosController.cs",
               "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\AlumnosController.cs",
@@ -220,61 +399,11 @@
               "RelativeToolTip": "GestionDeNotas\\Controllers\\AlumnosController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T23:49:26.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T23:49:26.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotasMantenimiento.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
-              "RelativeToolTip": "GestionDeNotas\\Models\\Database\\NotasMantenimiento.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T15:25:14.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MatriculaInscripcion.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
-              "RelativeToolTip": "GestionDeNotas\\Models\\Database\\MatriculaInscripcion.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T15:25:47.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Permiso.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Acceso\\Permiso.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Acceso\\Permiso.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Acceso\\Permiso.cs",
-              "RelativeToolTip": "GestionDeNotas\\Models\\Acceso\\Permiso.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T23:53:03.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CursoMantenimiento.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
-              "RelativeToolTip": "GestionDeNotas\\Models\\Database\\CursoMantenimiento.cs",
-              "ViewState": "AQIAALgAAAAAAAAAAAAqwNwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T02:04:52.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 22,
               "Title": "AlumnoMantenimiento.cs",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Database\\AlumnoMantenimiento.cs",
               "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Database\\AlumnoMantenimiento.cs",
@@ -286,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "MisCursos.cshtml",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Estudiante\\MisCursos.cshtml",
               "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Estudiante\\MisCursos.cshtml",
@@ -298,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "NoAutorizado.cshtml",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Acceso\\NoAutorizado.cshtml",
               "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Acceso\\NoAutorizado.cshtml",
@@ -310,19 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AccesoController.cs",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\AccesoController.cs",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Controllers\\AccesoController.cs",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Controllers\\AccesoController.cs",
-              "RelativeToolTip": "GestionDeNotas\\Controllers\\AccesoController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwDUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T23:55:28.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "Curso.cs",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Models\\Curso.cs",
               "RelativeDocumentMoniker": "GestionDeNotas\\Models\\Curso.cs",
@@ -334,19 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Curso\\Index.cshtml",
-              "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Curso\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Curso\\Index.cshtml",
-              "RelativeToolTip": "GestionDeNotas\\Views\\Curso\\Index.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-02T01:56:06.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "Inscribir.cshtml",
               "DocumentMoniker": "C:\\Users\\cdavi\\OneDrive\\Desktop\\Gestor de notas\\GestionDeNotas\\GestionDeNotas\\Views\\Estudiante\\Inscribir.cshtml",
               "RelativeDocumentMoniker": "GestionDeNotas\\Views\\Estudiante\\Inscribir.cshtml",

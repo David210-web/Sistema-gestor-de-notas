@@ -52,5 +52,16 @@ namespace GestionDeNotas.Controllers
             return View(cursos);
         }
 
+        public ActionResult MisCalificaciones()
+        {
+            var user = Session["usuario"] as Usuarios;
+            if (user == null)
+            {
+                return RedirectToAction("Index", "Home"); // Redirigir si el usuario no está en sesión
+            }
+            var notas = NotasMantenimiento.VerNotas(user.Carnet);
+            return View(notas);
+        }
+
     }
 }
