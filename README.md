@@ -18,4 +18,4 @@ Profesor
 Alumno
   - Ve todos los cursos disponibles para matricularse
   - Ve los cursos que esta inscrito
-  - Ve sus notas (no disponible)
+  - Ve sus notas
